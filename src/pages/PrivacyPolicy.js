@@ -108,11 +108,11 @@ function PrivacyPolicy() {
                     <h4 class="" style={{ fontSize: '30px' }}>Other legal requirements</h4>
                     <p className="subHeading" style={{ marginBottom: "1rem" }}>The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:</p>
                     <ul>
-                        <li>Comply with a legal obligation</li>
-                        <li>Protect and defend the rights or property of the Company</li>
-                        <li>Prevent or investigate possible wrongdoing in connection with the Service</li>
-                        <li>Protect the personal safety of Users of the Service or the public</li>
-                        <li>Protect against legal liability</li>
+                        <li><p className="subHeading" >Comply with a legal obligation</p></li>
+                        <li><p className="subHeading" >Protect and defend the rights or property of the Company</p></li>
+                        <li><p className="subHeading" >Prevent or investigate possible wrongdoing in connection with the Service</p></li>
+                        <li><p className="subHeading" >Protect the personal safety of Users of the Service or the public</p></li>
+                        <li><p className="subHeading" >Protect against legal liability</p></li>
                     </ul>
                     <h3 class="" style={{ fontSize: '36px' }}>Security of Your Personal Data</h3>
                     <p className="subHeading" style={{ marginBottom: "1rem" }}>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
