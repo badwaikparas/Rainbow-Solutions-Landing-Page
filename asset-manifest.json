@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rainbow-Solutions-Landing-Page/static/css/main.bd4fb0ee.css",
-    "main.js": "/Rainbow-Solutions-Landing-Page/static/js/main.3800d889.js",
+    "main.js": "/Rainbow-Solutions-Landing-Page/static/js/main.12ea3fec.js",
     "static/media/Real Estate Management.png": "/Rainbow-Solutions-Landing-Page/static/media/Real Estate Management.4ef43701610d1938812b.png",
     "static/media/Education and Institutional.png": "/Rainbow-Solutions-Landing-Page/static/media/Education and Institutional.15bd4b35214e1990df76.png",
     "static/media/Pharmacy Management.png": "/Rainbow-Solutions-Landing-Page/static/media/Pharmacy Management.892504b91c15d3e43198.png",
@@ -22,10 +22,10 @@
     "static/media/indiaOpd.jpg": "/Rainbow-Solutions-Landing-Page/static/media/indiaOpd.ada9227a5f536dd81f46.jpg",
     "index.html": "/Rainbow-Solutions-Landing-Page/index.html",
     "main.bd4fb0ee.css.map": "/Rainbow-Solutions-Landing-Page/static/css/main.bd4fb0ee.css.map",
-    "main.3800d889.js.map": "/Rainbow-Solutions-Landing-Page/static/js/main.3800d889.js.map"
+    "main.12ea3fec.js.map": "/Rainbow-Solutions-Landing-Page/static/js/main.12ea3fec.js.map"
   },
   "entrypoints": [
     "static/css/main.bd4fb0ee.css",
-    "static/js/main.3800d889.js"
+    "static/js/main.12ea3fec.js"
   ]
 }
