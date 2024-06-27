@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../assets/rainbow services logo.png'
-
+import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone, faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import IconButton from '@mui/material/IconButton';
@@ -30,7 +30,7 @@ function Footer() {
                             <ul className='flex list' style={{ flexDirection: 'column', gap: '10px' }}>
                                 <li><a href="">Terms and Condition</a></li>
                                 <li><a href="">Refund Policy</a></li>
-                                <li><a href="">Privacy Policy</a></li>
+                                <li><Link to="/privacyPolicy">Privacy Policy</Link></li>
                             </ul>
                         </div>
                     </div>
