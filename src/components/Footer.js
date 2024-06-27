@@ -4,7 +4,7 @@ import logo from '../assets/rainbow services logo.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone, faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import IconButton from '@mui/material/IconButton';
-import { Facebook, LinkedIn, Twitter } from '@mui/icons-material';
+import { Facebook, LinkedIn, Twitter, Instagram } from '@mui/icons-material';
 
 
 function Footer() {
@@ -53,6 +53,7 @@ function Footer() {
                             <a href=""><IconButton><Facebook /></IconButton></a>
                             <a href=""><IconButton><Twitter /></IconButton></a>
                             <a href=""><IconButton><LinkedIn /></IconButton></a>
+                            <a href=""><IconButton><Instagram /></IconButton></a>
                         </div>
                     </div>
                 </div>
