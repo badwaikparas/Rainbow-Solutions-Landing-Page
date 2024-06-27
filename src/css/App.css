@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+    font-family: 'Roboto';
+    height: 100%;
+    width: 100%;
+}
+
+:root {
+    --thm-color: #0E59F2;
+    --black-color: #1C1C25;
+    --bg-color: #eff1f5;
+    --body-color: #7B7E86;
+    --white-color: #ffffff;
+    --border-color: #E3E8F4;
+    --box-shedow: 0px 9px 75px rgba(8, 20, 44, 0.09);
+    --body-font: 'Outfit', sans-serif;
+    --footer-bg-color: #071A3E;
+    --copyright-bg: #0B2048;
+}
+
+.flex {
+    display: flex;
+}
+
+.badge {
+    color: yellow;
+    border: 1px solid yellow;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 65px;
+}
+
+.heading {
+    font-size: 22px;
+}
+
+.subHeading {
+    color: grey
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+}
+
+.section b {
+    color: yellow;
+}
+
+.card1 {
+    display: flex;
+    /* justify-content: center; */
+    align-items: flex-start;
+    width: 300px;
+}
+
+.phoneSection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+}
+
+.desc {
+    font-size: 15px;
+    max-width: 450px;
+}
+
+.phone {
+    height: 600px;
+}
+
+.cards {
+    height: 510px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+}
+
+.list>li>a {
+    color: black;
+}
