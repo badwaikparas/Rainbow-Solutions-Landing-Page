@@ -2,7 +2,7 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
 
-import img from '../assets/logo.png'
+import img from '../assets/people.jpg'
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';

@@ -16,7 +16,7 @@ function Footer() {
                         <div className='flex' style={{ borderBottom: '1px solid #efefef', paddingBottom: '25px' }}>
                             <img src={logo} alt="" height={72} style={{ paddingRight: '10px', borderRight: '#efefef solid 1px' }} />
                             <div style={{ lineHeight: '25px', paddingLeft: '10px' }}>
-                                We are experienced professionals who understand that It services is changing, and are true partners who care about your success. Our team provides a consultative approach on emerging technology.
+                                Rainbow Services is a Tech Startup with a team of professionals who believe in Innovation, Commitment & Delivery on time.
                             </div>
                         </div>
                         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2,1fr)', padding: '25px 0px' }}>

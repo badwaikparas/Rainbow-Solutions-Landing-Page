@@ -1,6 +1,6 @@
 import React from 'react'
 // import '../../css/HomeSections/Section1.css'
-import phone from '../../assets/phone.jpeg'
+import phone from '../../assets/iPhone.png'
 import img from '../../assets/logo.png'
 import logo1 from '../../assets/fourways2.png'
 import logo2 from '../../assets/nativeChefs2.jpg'
@@ -26,36 +26,31 @@ function Section1() {
             img: logo4
         },
         {
-            img: logo5,
+            img: logo5
         }
     ]
 
     const data2 = [
         {
-            review: "Team members &amp; all management team working together for company growth, staff is very nice and supportive. Building good family culture in work place its help me to learn lot of new things and growing my knowledge every day.",
-            by: "Paras"
+            review: "Rainbow Services have transformed our IT landscape. Their robust platform and seamless integrations have elevated our operations to a whole new level. The team's dedication to our success is evident in the outstanding support and regular updates.",
+            by: "Shantanu Mithal"
         },
         {
-            review: "I have worked with the PROBUZ team on a number of projects now and they are first class. Their communication is excellent, and their charges very reasonable. Excellent development skills.",
-            by: "Trushant"
+            review: "Choosing Rainbow Services was one of the best decisions we made for our financial operations. Their tailored solutions saved us both time and money, allowing us to focus on growing our business. The ROI from their software is simply outstanding.",
+            by: "Kunal Manjrekar"
         },
         {
-            review: "I am a client of Probuz Technologies Pvt. Ltd. and have taken web services from this company. I would like to recommend this service to my friends as they provide very quick support for any query. Happy with the services and product.",
-            by: "Tavrez"
+            review: "The marketing tools provided by Rainbow Services have given our campaigns apowerful edge. Their intuitive interface and data-driven insights have allowed us totarget our audience more effectively. The increase in conversions speaks volumesabout the quality of their products.",
+            by: "Arnab Das"
         },
         {
-            review: "Team members &amp; all management team working together for company growth, staff is very nice and supportive. Building good family culture in work place its help me to learn lot of new things and growing my knowledge every day.",
-            by: "Paras"
+            review: "Working with Rainbow Serviceshas been a game-changer for our organization.Their innovative solutions streamlined our processes and significantly improved ourbottom line. The team's expertise and responsiveness have exceeded ourexpectations.",
+            by: "Sharad Pimplakar"
         },
         {
-            review: "I have worked with the PROBUZ team on a number of projects now and they are first class. Their communication is excellent, and their charges very reasonable. Excellent development skills.",
-            by: "Trushant"
-        },
-        {
-            review: "I am a client of Probuz Technologies Pvt. Ltd. and have taken web services from this company. I would like to recommend this service to my friends as they provide very quick support for any query. Happy with the services and product.",
-            by: "Tavrez"
-        },
-
+            review: "Rainbow Services products have revolutionized our IT infrastructure. Their cutting-edge solutions not only increased efficiency but also enhanced our security measures.The support and training provided were exceptional, ensuring a smooth transition forour team.",
+            by: "Sanjay Jog"
+        }
     ]
     return (
         <>
@@ -74,11 +69,9 @@ function Section1() {
                 <div className='cards'>
                     <div className='card1'>
                         <div>
-                            <h3 className='desc-heading'>Web Design</h3>
+                            <h3 className='desc-heading'>Data Visualization</h3>
                             <p className='desc'>
-                                We are website designing and Development Company. We are more familiar
-                                with website design and development etc. So we are expert in advance
-                                Website Designing along with graphics.
+                                We can create personalized dashboards according to client's Requirements
                             </p>
                         </div>
                         <div>
@@ -92,12 +85,9 @@ function Section1() {
                     </div>
                     <div className='card1'>
                         <div>
-                            <h3 className='desc-heading'>Cloud Telephony</h3>
+                            <h3 className='desc-heading'>Software Developement</h3>
                             <p className='desc'>
-                                Unleash Your Business Potential With Best Cloud Telephony Services At
-                                Zero Setup Cost. Move Your Business On The Cloud With Live Call
-                                Tracking, Number Masking And SMS Alerts. Call Forwarding. Agent
-                                Scheduling. Call Routing. SMS Alert.
+                                We develop software as per client requirement.
                             </p>
                         </div>
                         <div>
@@ -122,12 +112,9 @@ function Section1() {
                             {/* </a> */}
                         </div>
                         <div>
-                            <h3 className='desc-heading'>Cloud Telephony</h3>
+                            <h3 className='desc-heading'>Mobile Application</h3>
                             <p className='desc'>
-                                Unleash Your Business Potential With Best Cloud Telephony Services At
-                                Zero Setup Cost. Move Your Business On The Cloud With Live Call
-                                Tracking, Number Masking And SMS Alerts. Call Forwarding. Agent
-                                Scheduling. Call Routing. SMS Alert.
+                                We design IOS and Android application as per client requirement.
                             </p>
                         </div>
                     </div>
@@ -141,12 +128,9 @@ function Section1() {
                             {/* </a> */}
                         </div>
                         <div>
-                            <h3 className='desc-heading'>Cloud Telephony</h3>
+                            <h3 className='desc-heading'>Data Management & Data Security</h3>
                             <p className='desc'>
-                                Unleash Your Business Potential With Best Cloud Telephony Services At
-                                Zero Setup Cost. Move Your Business On The Cloud With Live Call
-                                Tracking, Number Masking And SMS Alerts. Call Forwarding. Agent
-                                Scheduling. Call Routing. SMS Alert.
+                                End-to-End expertise for data conversion
                             </p>
                         </div>
                     </div>

@@ -17,7 +17,8 @@ function AboutUs() {
 
                 <div className='flex' style={{
                     alignItems: 'center',
-                    justifyContent: 'space-between'
+                    justifyContent: 'space-between',
+                    flexWrap: 'wrap'
                 }}>
                     <div>
                         <div className="section" style={{ alignItems: 'flex-start', marginLeft: '50px' }}>
