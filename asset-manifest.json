@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rainbow-Solutions-Landing-Page/static/css/main.bd4fb0ee.css",
-    "main.js": "/Rainbow-Solutions-Landing-Page/static/js/main.12ea3fec.js",
+    "main.js": "/Rainbow-Solutions-Landing-Page/static/js/main.30a0caf5.js",
     "static/media/Real Estate Management.png": "/Rainbow-Solutions-Landing-Page/static/media/Real Estate Management.4ef43701610d1938812b.png",
     "static/media/Education and Institutional.png": "/Rainbow-Solutions-Landing-Page/static/media/Education and Institutional.15bd4b35214e1990df76.png",
     "static/media/Pharmacy Management.png": "/Rainbow-Solutions-Landing-Page/static/media/Pharmacy Management.892504b91c15d3e43198.png",
@@ -13,6 +13,7 @@
     "static/media/ERP.png": "/Rainbow-Solutions-Landing-Page/static/media/ERP.367a5bfd8db688e12c7f.png",
     "static/media/Hospital Management.png": "/Rainbow-Solutions-Landing-Page/static/media/Hospital Management.4d5909200f85042837b7.png",
     "static/media/sathe.jpg": "/Rainbow-Solutions-Landing-Page/static/media/sathe.84a8ee84e1d44d797888.jpg",
+    "static/media/iPhone.png": "/Rainbow-Solutions-Landing-Page/static/media/iPhone.b809aa7daf61632a577c.png",
     "static/media/fourways2.png": "/Rainbow-Solutions-Landing-Page/static/media/fourways2.892f09d563d2e094c970.png",
     "static/media/parijatak2.jpg": "/Rainbow-Solutions-Landing-Page/static/media/parijatak2.f3e1099ebb75dcba7cf5.jpg",
     "static/media/rainbow services logo.png": "/Rainbow-Solutions-Landing-Page/static/media/rainbow services logo.28681f8d5d5b858ef46b.png",
@@ -22,10 +23,10 @@
     "static/media/indiaOpd.jpg": "/Rainbow-Solutions-Landing-Page/static/media/indiaOpd.ada9227a5f536dd81f46.jpg",
     "index.html": "/Rainbow-Solutions-Landing-Page/index.html",
     "main.bd4fb0ee.css.map": "/Rainbow-Solutions-Landing-Page/static/css/main.bd4fb0ee.css.map",
-    "main.12ea3fec.js.map": "/Rainbow-Solutions-Landing-Page/static/js/main.12ea3fec.js.map"
+    "main.30a0caf5.js.map": "/Rainbow-Solutions-Landing-Page/static/js/main.30a0caf5.js.map"
   },
   "entrypoints": [
     "static/css/main.bd4fb0ee.css",
-    "static/js/main.12ea3fec.js"
+    "static/js/main.30a0caf5.js"
   ]
 }
